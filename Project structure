@@ -1,0 +1,15 @@
+voice-shopping-agent/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── App.js
+│   ├── VoiceShoppingAgent.js
+│   ├── index.js
+│   └── index.css
+├── .gitignore
+├── package.json
+├── netlify.toml
+├── README.md
+└── LICENSE
